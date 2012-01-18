@@ -1,4 +1,12 @@
-#wrap{ margin:0 auto; background:gray; display:block; color:#fff; height:100px; line-height:100px; text-align:center;}
+#wrap
+{
+margin:0 auto;
+background:gray;
+display:block;
+color:#fff;
+height:100px;
+line-height:100px;text-align:center;
+}
 
 @media only screen 
 and (min-width: 501px)
